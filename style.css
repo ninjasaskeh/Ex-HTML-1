@@ -1,0 +1,39 @@
+.Jumbotron {
+  padding-top: 6rem;
+  background-color: #292929;
+}
+.About {
+  padding-top: 6rem;
+  background-color: #ffa31a;
+}
+.Certificate {
+  padding-top: 6rem;
+  background-color: #292929;
+}
+.Contact {
+  padding-top: 6rem;
+  background-color: #ffa31a;
+}
+
+#txtcerti {
+  color: #ffa31a;
+}
+.display-4 {
+  color: #ffa31a;
+}
+.lead {
+  color: #ffffff;
+}
+.Footerb {
+  background-color: #292929;
+}
+.Footerw {
+  background-color: #ffa31a;
+}
+.Submit {
+  padding-top: 6rem;
+  background-color: #292929;
+}
+.marque {
+  font-size: xx-large;
+}
